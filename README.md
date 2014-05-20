@@ -1,4 +1,4 @@
-PatronesDeDise-o
+PatronesDeDiseño
 ================
 
 Implementacion de patrones de Diseño
